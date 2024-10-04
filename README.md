@@ -1,1 +1,1 @@
-# Medical-Image-Segmentation
+# Image-Segmentation-Projects
